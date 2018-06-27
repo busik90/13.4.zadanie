@@ -44,6 +44,7 @@ function commands() {
     '- /nodeVer [show node version]\n' +
     '- /sysLang [show system language]\n' +
     '- /OSinfo [show OS information]\n' +
+    '- /commands [show commands list]\n' +
     '- /exit [exit programm]\n' +
     '-----------------------------\n\n');
 };
